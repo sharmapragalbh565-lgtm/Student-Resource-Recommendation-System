@@ -1,0 +1,101 @@
+resource_id,student_id,subject,resource_type,resource_title,difficulty_level,rating,downloads,upload_date,recommended_score
+RES001,STU027,DBMS,PDF,Resource Title 1,Advanced,4.38,71,2025-09-19 19:03:07.403788,0.84
+RES002,STU032,Operating Systems,Video,Resource Title 2,Beginner,3.54,53,2025-07-07 19:03:07.403807,0.73
+RES003,STU008,Computer Networks,Video,Resource Title 3,Advanced,3.16,344,2025-04-22 19:03:07.403816,0.87
+RES004,STU037,Operating Systems,Notes,Resource Title 4,Intermediate,4.46,18,2026-02-14 19:03:07.403824,0.69
+RES005,STU050,Data Structures,Notes,Resource Title 5,Intermediate,4.17,225,2026-01-03 19:03:07.403832,0.76
+RES006,STU009,DBMS,Notes,Resource Title 6,Intermediate,3.6,388,2025-07-19 19:03:07.403840,0.68
+RES007,STU050,Machine Learning,Notes,Resource Title 7,Intermediate,3.83,376,2025-08-07 19:03:07.403850,0.58
+RES008,STU036,Operating Systems,Code,Resource Title 8,Beginner,4.41,445,2025-09-22 19:03:07.403861,0.59
+RES009,STU011,Machine Learning,Video,Resource Title 9,Intermediate,3.47,408,2025-09-17 19:03:07.403869,0.7
+RES010,STU046,Computer Networks,Notes,Resource Title 10,Advanced,4.28,368,2025-09-16 19:03:07.403877,0.78
+RES011,STU003,Operating Systems,Presentation,Resource Title 11,Intermediate,4.13,62,2025-04-28 19:03:07.403884,0.64
+RES012,STU046,Data Structures,Video,Resource Title 12,Beginner,3.82,212,2025-03-01 19:03:07.403891,0.98
+RES013,STU040,Machine Learning,PDF,Resource Title 13,Intermediate,3.4,464,2025-08-21 19:03:07.403898,0.54
+RES014,STU005,Data Structures,Code,Resource Title 14,Intermediate,4.04,18,2025-05-12 19:03:07.403906,0.64
+RES015,STU002,Machine Learning,Notes,Resource Title 15,Advanced,4.07,55,2025-06-18 19:03:07.403913,0.86
+RES016,STU032,Computer Networks,PDF,Resource Title 16,Beginner,4.47,383,2025-11-03 19:03:07.403921,0.51
+RES017,STU004,DBMS,PDF,Resource Title 17,Intermediate,3.45,93,2025-04-23 19:03:07.403929,0.73
+RES018,STU035,Computer Networks,PDF,Resource Title 18,Intermediate,3.81,120,2025-05-07 19:03:07.403936,0.6
+RES019,STU047,Machine Learning,Video,Resource Title 19,Beginner,4.98,33,2026-01-12 19:03:07.403944,0.79
+RES020,STU043,Operating Systems,Code,Resource Title 20,Advanced,3.97,358,2025-08-04 19:03:07.403951,0.58
+RES021,STU046,Data Structures,Code,Resource Title 21,Advanced,4.31,121,2025-11-27 19:03:07.403964,1.0
+RES022,STU032,Data Structures,Notes,Resource Title 22,Advanced,3.16,490,2025-02-28 19:03:07.403971,0.88
+RES023,STU011,Data Structures,Presentation,Resource Title 23,Advanced,3.15,458,2025-03-06 19:03:07.403978,0.52
+RES024,STU008,Machine Learning,Code,Resource Title 24,Advanced,4.1,55,2025-09-14 19:03:07.403985,0.97
+RES025,STU012,DBMS,PDF,Resource Title 25,Beginner,3.17,172,2025-10-01 19:03:07.403992,0.57
+RES026,STU026,Data Structures,Video,Resource Title 26,Beginner,3.85,379,2025-06-15 19:03:07.403999,0.53
+RES027,STU046,Data Structures,PDF,Resource Title 27,Intermediate,3.81,302,2025-09-24 19:03:07.404006,0.54
+RES028,STU002,Data Structures,Presentation,Resource Title 28,Intermediate,4.99,125,2025-03-28 19:03:07.404013,0.99
+RES029,STU037,Data Structures,Video,Resource Title 29,Intermediate,3.02,199,2026-01-14 19:03:07.404021,0.86
+RES030,STU001,Operating Systems,Video,Resource Title 30,Intermediate,4.07,79,2025-09-16 19:03:07.404029,1.0
+RES031,STU027,Operating Systems,PDF,Resource Title 31,Beginner,3.33,466,2025-06-07 19:03:07.404036,0.7
+RES032,STU048,Data Structures,Video,Resource Title 32,Intermediate,4.69,10,2025-06-23 19:03:07.404043,0.58
+RES033,STU018,Operating Systems,Presentation,Resource Title 33,Intermediate,3.32,283,2025-06-24 19:03:07.404050,0.56
+RES034,STU009,DBMS,Video,Resource Title 34,Intermediate,4.23,57,2025-09-05 19:03:07.404057,0.6
+RES035,STU042,Computer Networks,PDF,Resource Title 35,Beginner,4.37,276,2026-01-31 19:03:07.404064,0.96
+RES036,STU045,DBMS,Code,Resource Title 36,Beginner,4.29,475,2025-06-07 19:03:07.404071,0.69
+RES037,STU011,DBMS,PDF,Resource Title 37,Advanced,4.59,269,2025-03-12 19:03:07.404078,0.65
+RES038,STU011,Computer Networks,Notes,Resource Title 38,Intermediate,4.48,124,2025-04-03 19:03:07.404085,0.77
+RES039,STU011,Operating Systems,Video,Resource Title 39,Intermediate,3.0,155,2025-11-26 19:03:07.404095,0.92
+RES040,STU041,Computer Networks,Presentation,Resource Title 40,Intermediate,3.39,330,2025-05-04 19:03:07.404102,0.97
+RES041,STU006,Computer Networks,Presentation,Resource Title 41,Intermediate,4.2,351,2025-06-05 19:03:07.404110,0.97
+RES042,STU026,Machine Learning,Notes,Resource Title 42,Intermediate,3.35,148,2025-11-02 19:03:07.404117,0.85
+RES043,STU024,Operating Systems,Video,Resource Title 43,Beginner,4.94,206,2025-10-14 19:03:07.404123,0.64
+RES044,STU041,Machine Learning,Code,Resource Title 44,Beginner,3.63,251,2026-02-14 19:03:07.404130,0.82
+RES045,STU010,DBMS,Presentation,Resource Title 45,Beginner,4.78,206,2026-02-06 19:03:07.404137,0.97
+RES046,STU004,Machine Learning,Code,Resource Title 46,Intermediate,4.17,394,2025-05-09 19:03:07.404144,0.7
+RES047,STU025,Operating Systems,PDF,Resource Title 47,Beginner,3.12,274,2026-02-20 19:03:07.404151,0.9
+RES048,STU020,Data Structures,Video,Resource Title 48,Beginner,3.53,382,2026-02-17 19:03:07.404159,0.88
+RES049,STU021,Machine Learning,PDF,Resource Title 49,Intermediate,4.46,153,2025-11-12 19:03:07.404166,0.66
+RES050,STU042,Operating Systems,Code,Resource Title 50,Beginner,4.09,198,2025-06-14 19:03:07.404173,0.75
+RES051,STU018,DBMS,Code,Resource Title 51,Advanced,3.25,163,2025-03-27 19:03:07.404181,0.53
+RES052,STU001,Computer Networks,Notes,Resource Title 52,Beginner,4.49,55,2025-12-19 19:03:07.404187,0.57
+RES053,STU017,Computer Networks,Code,Resource Title 53,Intermediate,3.15,300,2025-04-14 19:03:07.404194,0.57
+RES054,STU035,Computer Networks,Notes,Resource Title 54,Beginner,4.71,339,2025-02-27 19:03:07.404201,0.78
+RES055,STU007,DBMS,Video,Resource Title 55,Intermediate,4.93,341,2026-01-02 19:03:07.404253,0.68
+RES056,STU037,Data Structures,Video,Resource Title 56,Advanced,4.86,360,2025-05-25 19:03:07.404261,0.69
+RES057,STU035,Data Structures,Notes,Resource Title 57,Beginner,4.72,18,2025-03-02 19:03:07.404268,0.6
+RES058,STU046,Operating Systems,Notes,Resource Title 58,Intermediate,3.1,191,2025-05-27 19:03:07.404275,0.7
+RES059,STU003,Data Structures,Code,Resource Title 59,Intermediate,3.22,196,2026-02-23 19:03:07.404283,0.78
+RES060,STU011,DBMS,Notes,Resource Title 60,Beginner,3.74,52,2025-05-23 19:03:07.404290,0.71
+RES061,STU038,DBMS,Video,Resource Title 61,Intermediate,4.63,439,2026-01-24 19:03:07.404297,0.86
+RES062,STU003,DBMS,PDF,Resource Title 62,Beginner,3.87,266,2025-03-09 19:03:07.404304,0.51
+RES063,STU013,DBMS,Notes,Resource Title 63,Intermediate,3.25,239,2025-07-27 19:03:07.404455,0.88
+RES064,STU043,DBMS,Code,Resource Title 64,Beginner,4.21,394,2025-06-14 19:03:07.404464,0.75
+RES065,STU039,Machine Learning,PDF,Resource Title 65,Beginner,4.81,439,2025-08-25 19:03:07.404473,0.62
+RES066,STU035,Computer Networks,Presentation,Resource Title 66,Advanced,3.56,207,2025-08-14 19:03:07.404480,0.74
+RES067,STU048,Computer Networks,Presentation,Resource Title 67,Beginner,4.68,163,2025-08-26 19:03:07.404487,0.54
+RES068,STU023,Operating Systems,Video,Resource Title 68,Advanced,4.96,377,2026-02-07 19:03:07.404494,0.62
+RES069,STU049,Machine Learning,Notes,Resource Title 69,Intermediate,3.99,391,2026-01-08 19:03:07.404500,0.58
+RES070,STU044,Machine Learning,Presentation,Resource Title 70,Advanced,3.32,153,2025-04-17 19:03:07.404507,0.69
+RES071,STU008,Machine Learning,Notes,Resource Title 71,Advanced,4.34,424,2025-05-16 19:03:07.404513,0.97
+RES072,STU048,Operating Systems,Notes,Resource Title 72,Beginner,3.64,277,2025-08-16 19:03:07.404522,0.85
+RES073,STU007,DBMS,Code,Resource Title 73,Advanced,4.38,391,2025-09-30 19:03:07.404528,0.97
+RES074,STU027,Computer Networks,Code,Resource Title 74,Advanced,4.16,282,2026-01-14 19:03:07.404535,0.78
+RES075,STU022,Data Structures,Code,Resource Title 75,Beginner,4.14,261,2025-03-23 19:03:07.404543,0.71
+RES076,STU014,Operating Systems,PDF,Resource Title 76,Advanced,3.89,212,2025-05-15 19:03:07.404550,0.64
+RES077,STU022,Machine Learning,Video,Resource Title 77,Beginner,3.11,409,2025-09-14 19:03:07.404557,0.53
+RES078,STU026,Data Structures,Video,Resource Title 78,Advanced,4.15,499,2025-09-11 19:03:07.404564,0.9
+RES079,STU047,Data Structures,Presentation,Resource Title 79,Beginner,4.3,288,2026-01-13 19:03:07.404571,0.97
+RES080,STU050,Machine Learning,Code,Resource Title 80,Intermediate,4.29,231,2025-10-17 19:03:07.404578,0.61
+RES081,STU022,Computer Networks,Video,Resource Title 81,Beginner,3.73,189,2025-09-07 19:03:07.404585,0.73
+RES082,STU026,Data Structures,Video,Resource Title 82,Advanced,3.81,38,2026-02-04 19:03:07.404591,0.67
+RES083,STU019,Machine Learning,Notes,Resource Title 83,Beginner,4.1,358,2025-05-04 19:03:07.404598,0.61
+RES084,STU019,DBMS,Video,Resource Title 84,Intermediate,3.8,385,2025-06-01 19:03:07.404605,0.84
+RES085,STU050,DBMS,Presentation,Resource Title 85,Beginner,3.68,443,2025-07-23 19:03:07.404612,0.65
+RES086,STU036,Operating Systems,Notes,Resource Title 86,Intermediate,4.41,257,2025-05-01 19:03:07.404619,0.65
+RES087,STU043,Machine Learning,Video,Resource Title 87,Beginner,4.89,399,2025-12-06 19:03:07.404626,0.54
+RES088,STU033,Operating Systems,Notes,Resource Title 88,Beginner,3.24,124,2025-12-11 19:03:07.404633,0.53
+RES089,STU029,Machine Learning,PDF,Resource Title 89,Beginner,4.16,75,2025-03-13 19:03:07.404640,0.92
+RES090,STU029,Data Structures,Presentation,Resource Title 90,Advanced,3.36,20,2025-05-18 19:03:07.404646,0.63
+RES091,STU044,Data Structures,Presentation,Resource Title 91,Intermediate,3.13,36,2025-12-19 19:03:07.404653,0.87
+RES092,STU031,Data Structures,Video,Resource Title 92,Intermediate,4.78,129,2025-08-02 19:03:07.404659,0.74
+RES093,STU007,Computer Networks,Video,Resource Title 93,Intermediate,4.77,370,2025-07-11 19:03:07.404666,0.96
+RES094,STU049,Computer Networks,PDF,Resource Title 94,Advanced,3.27,370,2025-09-11 19:03:07.404674,0.63
+RES095,STU015,Machine Learning,Code,Resource Title 95,Advanced,3.57,101,2025-10-08 19:03:07.404681,0.7
+RES096,STU048,Machine Learning,Video,Resource Title 96,Beginner,4.06,68,2025-05-20 19:03:07.404687,0.72
+RES097,STU034,DBMS,Code,Resource Title 97,Beginner,3.01,243,2025-05-25 19:03:07.404694,0.56
+RES098,STU007,Machine Learning,PDF,Resource Title 98,Beginner,3.51,62,2025-09-06 19:03:07.404701,0.88
+RES099,STU031,DBMS,Code,Resource Title 99,Intermediate,3.45,245,2025-05-18 19:03:07.404708,0.85
+RES100,STU031,Machine Learning,Code,Resource Title 100,Advanced,4.4,106,2025-03-07 19:03:07.404715,0.85
